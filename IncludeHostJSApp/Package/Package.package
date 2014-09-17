@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="94018980-6122-483e-ad18-e61faaeb3a2b" 
+        solutionId="94018980-6122-483e-ad18-e61faaeb3a2b" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="IncludeHostJSApp"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="a807afde-0266-40cc-89d7-6f618bcf3dc1" />
+  </features>
+</package>
